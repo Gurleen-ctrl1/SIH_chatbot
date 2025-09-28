@@ -1,0 +1,6 @@
+streamlit
+openai
+gTTS
+SpeechRecognition
+pyttsx3
+pyaudio
